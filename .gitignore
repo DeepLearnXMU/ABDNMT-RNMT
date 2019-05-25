@@ -1,0 +1,13 @@
+**/test*.py
+**/*.pyc
+**/__pycache__
+.idea/
+tmp/
+output/
+out/
+*.pkl
+*.yaml
+*.args
+log.*
+debug*
+
