@@ -6,7 +6,7 @@ Zhang, Xiangwen, Jinsong Su, Yue Qin, Yang Liu, Rongrong Ji, and Hongji Wang. "A
 
 Python 3.7+ is required.
 
-Install requirements and optionally install thseq.
+Install requirements as follows.
 ```shell
 pip install -r requirements.txt
 ```
